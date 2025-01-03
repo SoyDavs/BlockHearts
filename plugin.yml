@@ -1,0 +1,6 @@
+name: BreakHearts
+main: BreakHearts\Main
+version: 1.0.0
+api: [5.0.0]
+author: SoyDavs
+description: A plugin that grants players special abilities and hearts when breaking specific blocks.

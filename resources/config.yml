@@ -1,0 +1,30 @@
+enabled: true
+heart-gained-message: "You gained a {heart} heart!"
+blocks:
+  "Diamond Ore": "Diamond"
+  "Gold Ore": "Gold"
+  "Iron Ore": "Iron"
+  "Coal Ore": "Coal"
+effects:
+  Diamond:
+    LEVITATION:
+      duration: 600
+      amplifier: 2
+  Gold:
+    REGENERATION:
+      duration: 600
+      amplifier: 2
+  Iron:
+    RESISTANCE:
+      duration: 600
+      amplifier: 2
+    STRENGTH:
+      duration: 600
+      amplifier: 1
+  Coal:
+    NIGHT_VISION:
+      duration: 1200
+      amplifier: 1
+    SPEED:
+      duration: 600
+      amplifier: 2
